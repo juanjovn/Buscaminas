@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Buscamonas</string>
+    <string name="dificultad">8</string>
+    <string name="nom_spinner">Nombre Spinner</string>
+</resources>
